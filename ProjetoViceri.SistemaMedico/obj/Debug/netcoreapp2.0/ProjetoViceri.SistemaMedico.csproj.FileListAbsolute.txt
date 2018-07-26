@@ -1,0 +1,12 @@
+/Users/ipetinate/Projetos/VIsual Studio/Projeto Fatec/projeto_viceri/ProjetoViceri.SistemaMedico/bin/Debug/netcoreapp2.0/ProjetoViceri.SistemaMedico.deps.json
+/Users/ipetinate/Projetos/VIsual Studio/Projeto Fatec/projeto_viceri/ProjetoViceri.SistemaMedico/bin/Debug/netcoreapp2.0/ProjetoViceri.SistemaMedico.runtimeconfig.json
+/Users/ipetinate/Projetos/VIsual Studio/Projeto Fatec/projeto_viceri/ProjetoViceri.SistemaMedico/bin/Debug/netcoreapp2.0/ProjetoViceri.SistemaMedico.runtimeconfig.dev.json
+/Users/ipetinate/Projetos/VIsual Studio/Projeto Fatec/projeto_viceri/ProjetoViceri.SistemaMedico/bin/Debug/netcoreapp2.0/ProjetoViceri.SistemaMedico.dll
+/Users/ipetinate/Projetos/VIsual Studio/Projeto Fatec/projeto_viceri/ProjetoViceri.SistemaMedico/bin/Debug/netcoreapp2.0/ProjetoViceri.SistemaMedico.pdb
+/Users/ipetinate/Projetos/VIsual Studio/Projeto Fatec/projeto_viceri/ProjetoViceri.SistemaMedico/obj/Debug/netcoreapp2.0/ProjetoViceri.SistemaMedico.csprojResolveAssemblyReference.cache
+/Users/ipetinate/Projetos/VIsual Studio/Projeto Fatec/projeto_viceri/ProjetoViceri.SistemaMedico/obj/Debug/netcoreapp2.0/ProjetoViceri.SistemaMedico.csproj.CoreCompileInputs.cache
+/Users/ipetinate/Projetos/VIsual Studio/Projeto Fatec/projeto_viceri/ProjetoViceri.SistemaMedico/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/Users/ipetinate/Projetos/VIsual Studio/Projeto Fatec/projeto_viceri/ProjetoViceri.SistemaMedico/obj/Debug/netcoreapp2.0/ProjetoViceri.SistemaMedico.AssemblyInfoInputs.cache
+/Users/ipetinate/Projetos/VIsual Studio/Projeto Fatec/projeto_viceri/ProjetoViceri.SistemaMedico/obj/Debug/netcoreapp2.0/ProjetoViceri.SistemaMedico.AssemblyInfo.cs
+/Users/ipetinate/Projetos/VIsual Studio/Projeto Fatec/projeto_viceri/ProjetoViceri.SistemaMedico/obj/Debug/netcoreapp2.0/ProjetoViceri.SistemaMedico.dll
+/Users/ipetinate/Projetos/VIsual Studio/Projeto Fatec/projeto_viceri/ProjetoViceri.SistemaMedico/obj/Debug/netcoreapp2.0/ProjetoViceri.SistemaMedico.pdb
